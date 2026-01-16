@@ -1,6 +1,6 @@
 # James Heile
 
-
+![Headshot](headshot.jpeg)  
 
 ## 📍 Current Status
 **Major:** Finance & Management Information Systems (MIS)  
