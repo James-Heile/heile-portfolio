@@ -16,7 +16,7 @@ In my free time, I enjoy surfing, playing pickleball with my girlfriend, and wri
 ## 🚀 Career Aspirations
 - **Target Roles:** Financial Analyst / Financial Advisor, Data Analyst  
 - **Interests:** Wealth Management, FinTech, Data Analytics  
-- **Professional Goal:** I’m hoping to intern with **Tradewind Capital** this summer to build hands-on finance experience or pass my test for the Certified Financial Planner (CFP) Certification
+- **Professional Goal:** I’m hoping to intern with **Tradewind Capital** this summer to build hands-on finance experience. Additionally, I am preparing for and hope to soon pass the exam for the Certified Financial Planner (CFP) Certification.
 
 ## 📫 Connect
 - **LinkedIn:** [linkedin.com/in/james-heile](https://www.linkedin.com/in/james-heile)  
