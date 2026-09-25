@@ -1,1 +1,1 @@
-Content: This folder contains charts, graphs, and visual figures output from analysis.
+Content: This subfolder contains charts, graphs, and visual figures output from analysis.
