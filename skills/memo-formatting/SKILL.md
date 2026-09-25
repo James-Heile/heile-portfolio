@@ -25,3 +25,9 @@ This skill guides the AI to format unstructured analytical, financial, or strate
 
 ## Expected Output Format
 Formatted Markdown output matching formal memo conventions:
+
+---
+
+**AI Assistance Disclosure**
+
+> *Prepared with the assistance of ChatGPT; all content was reviewed, revised, and finalized by me.*
