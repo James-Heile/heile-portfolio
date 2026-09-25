@@ -1,1 +1,1 @@
-Content: This folder contains project and client briefs.
+Content: This subfolder contains project and client briefs.
