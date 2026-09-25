@@ -87,4 +87,6 @@
 
 **Interests:** Surfing · Pickleball · Piano/Music · Financial Markets · Technology
 
+
+
 *Prepared with the assistance of ChatGPT; all content was reviewed, revised, and finalized by me*
