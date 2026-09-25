@@ -83,6 +83,6 @@
 
 **Finance:** Financial Analysis · Investments · Discounted Cash Flow (DCF) Analysis · Wealth Management · Financial Planning
 
-**Professional Development:** Currently preparing for the FINRA Securities Industry Essentials (SIE) Exam
+**Professional Development:** Currently completing CFP® certification coursework and preparing for the **CFP® Certification Examination**
 
 **Interests:** Surfing · Pickleball · Piano/Music · Financial Markets · Technology
