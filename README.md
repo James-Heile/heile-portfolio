@@ -24,6 +24,9 @@ Outside of school and work, I enjoy surfing, playing pickleball with my girlfrie
 - **LinkedIn:** [linkedin.com/in/james-heile](https://www.linkedin.com/in/james-heile)  
 - **Email:** theile6@hawaii.edu
 
+## Engagement Index
+
+* [Resume](RESUME.md)
 ---
 
 **AI Assistance Disclosure**
