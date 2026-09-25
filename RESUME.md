@@ -86,3 +86,5 @@
 **Professional Development:** Currently completing CFP® certification coursework and preparing for the **CFP® Certification Examination**
 
 **Interests:** Surfing · Pickleball · Piano/Music · Financial Markets · Technology
+
+*Prepared with the assistance of ChatGPT; all content was reviewed, revised, and finalized by me*
