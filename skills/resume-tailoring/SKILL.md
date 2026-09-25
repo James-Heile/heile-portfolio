@@ -31,3 +31,9 @@ Deliver the response formatted in clean Markdown with three clear sections:
 
 ### 3. Gap Analysis & Quick Fixes
 - Brief recommendations on any key qualifications missing from the resume that could be addressed in an interview or cover letter.
+
+---
+
+**AI Assistance Disclosure**
+
+> *Prepared with the assistance of ChatGPT; all content was reviewed, revised, and finalized by me.*
